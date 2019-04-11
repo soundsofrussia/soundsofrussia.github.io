@@ -1,3 +1,4 @@
 .DS_Store
-Sounds Of Russia/
-images/images/
+_site
+.sass-cache
+.jekyll-metadata
