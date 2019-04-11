@@ -1,0 +1,9 @@
+<h3><center>Congratulations to all my students who won at these fine arts musical competitions & awards!</center></h3>
+
+{% for year in site.congrats reversed %}
+<article class="hentry"><header></header>
+  <div class="entry-content">
+      {{ year.excerpt }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}

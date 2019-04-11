@@ -1,0 +1,131 @@
+title:            Sounds Of Russia
+description:      Violin, Piano, Viola, Cello and Music Lessons in Broward County, Florida, Coral Springs, Boca Raton, Miami, Plantation.
+
+# put your disqus here
+disqus_shortname:
+reading_time:     true # if true, shows the estimated reading time for a post
+words_per_minute: 200
+logo:             images/logo.png # logo visible in the topbar
+excerpt_separator: <!--more-->
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+
+url: 
+  # http://aronbordin.com/neo-hpstr-jekyll-theme
+
+# draw your top menu here
+# each item must have a title and a url.
+#   To list post categories. use type: 'categories'
+#   To create sub categories. add a submenu item
+# See the example
+menu:
+  - title: 'Services'
+    url: '/services'
+    submenu:
+      - title: 'Registration'
+        url: '/services'
+      - title: 'Home'
+        url: '/'
+  - title: 'Videos'
+    url: '/photos'
+    submenu:
+      - title: 'Photos'
+        url: '/photos'
+  - title: 'Competitions'
+    url: '/congratulations'
+    submenu:
+      - title: 'Congratulations'
+        url: '/congratulations'
+  - title: 'Articles'
+    url: '/articles'
+    submenu:
+      - title: 'Contact'
+        url: '/contact'
+#  - title: 'Categories'
+#    url: '/categories'
+#    type: 'categories'
+#  - title: 'Favorites'
+#    url: '#'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
+
+# Owner/author information
+owner:
+  name:           Sounds Of Russia
+  site:           http://new.SoundsOfRussia.com
+  avatar:         images/avatar.jpg
+  bio:            "Dr. Leana Strouse has more than 30 years experience succesffully teaching and nurturing students of all ages in mastering Violin, Piano, Cello and the Viola."
+  email:          info@SoundsOfRussia.com
+  # Twitter nick for use in Twitter cards and follow button.
+  # twitter: soundsofrussia # if no twitter in this config, the twitter follow button will be removed
+  # GitHub nick for use in follow button in author block.
+  # github: soundsofrussia
+
+# Twitter account associated with the site if different from owner/author twitter account.
+# Used in Twitter cards.
+twitter:
+
+# Social networking links used in author block underneath posts. Update and remove as you like.
+social:
+#  - title: "github"
+#    url: "https://github.com/aron-bordin"
+#  - title: "linkedin"
+#    url: "https://br.linkedin.com/in/aronbordin"
+  - title: "youtube"
+    url: "https://www.youtube.com/user/soundsofrussia/videos"
+
+# Background image to be tiled on all pages
+background:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+locale:      en_US
+future:      true
+highlighter: rouge
+markdown:    kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 1
+paginate_path: "/articles/page:num/"
+
+collections_dir: collections
+
+collections:
+  home_pages:
+    output: true
+  congrats:
+    output: true
+  articles:
+    output: true
+  # if true, shows the floatting share buttons
+float_share: true
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: [jekyll-paginate]
+theme: neo-hpstr-jekyll-theme
