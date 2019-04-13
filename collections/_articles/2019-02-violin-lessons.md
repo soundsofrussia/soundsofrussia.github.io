@@ -44,7 +44,7 @@ words “as a warning to the innocent.”
 
 During the recital, titled “In Honor of the 17 Lost,” some
 wore orange, the color of awareness. Strouse teaches three
-instruments: the violin, the piano, and the viola. Some of the
+instruments: the violin, the piano, and viola. Some of the
 students played all three instruments during the program that
 took place at Mary Magdalene Episcopal Church on Dec.15, 2018. 
 Strouse said the entire performance was done in minor

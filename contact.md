@@ -13,5 +13,5 @@ Contact **954-346-2182** or email **info@soundsofrussia.com** for Piano Lessons,
 
 # SoundsOfRussia.com
 
-Dr. Leana Strouse Music Teacher -- Teaching and nurturing students of all ages in mastering Violin, Piano, Cello and the Viola.
+Dr. Leana Strouse Music Teacher -- Teaching and nurturing students of all ages in mastering Violin, Piano, Cello and Viola.
 

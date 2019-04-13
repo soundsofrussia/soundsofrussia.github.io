@@ -9,7 +9,7 @@ image:
 
 # SoundsOfRussia.com
 
-Dr. Leana Strouse has more than 30 years experience succesffully teaching and nurturing students of all ages in mastering Violin, Piano, Cello and the Viola.
+Dr. Leana Strouse has more than 30 years experience succesfully teaching and nurturing students of all ages in mastering Violin, Piano, Cello and Viola.
 
 # Contact 
 
