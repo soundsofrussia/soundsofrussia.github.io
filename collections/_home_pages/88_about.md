@@ -6,7 +6,7 @@ share: true
 
 # Learning the right way with Leana 
 
-The Russian-American violinist and pianist Leanna Strouse was born in Moscow and received a Bachelor of Music degree in Violin and Piano from the Belgrade Music College. 
+![SoundsOfRussia.com - music instructor in Coral Springs](/images/violin-viola-cello-soundsofrussia.com-leana-strouse.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"} The Russian-American violinist and pianist Leanna Strouse was born in Moscow and received a Bachelor of Music degree in Violin and Piano from the Belgrade Music College. 
           
  She also has a Master's Degree in Teaching and Performing from the Kiev State Conservatory and received her advanced academic degree in 2013. At age 8, Leana won the Special Award for Gifted Children at the Preparatory Music School in Smolensk. While working on her Bachelor's Degree in Belgrade Music College, she received many performance awards. Her teachers included Adolf Leschinsky (student of Karl Flesch, Rebecca Klementskaja (student of Peter Stoljarsky) and many other individuals famous within the USSR.
           
