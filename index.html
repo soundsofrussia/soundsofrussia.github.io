@@ -15,7 +15,9 @@ comments: false
 <EMBED src="violinsounds.mp3" autostart="true" loop="false" hidden="true"></embed>
 
 <noembed><bgsound src="violinsounds.mp3" loop="1"> </noembed> 
-
+    
+    <div id=messagediv style='font-style:italic'>Loading...</div>
+    <div id=readystatediv style='font-style:italic'></div>
     <script>
         var audio = new Audio("http://soundsofrussia.com/violinsounds.mp3")
         var played = false
@@ -25,7 +27,7 @@ comments: false
                 return;
             played = true
             audio.play()
-            messagediv.innerHTML = "Playing audio. <button style=’font-size:inherit’ onclick=’audio.pause()’>Stop</button>"
+            messagediv.innerHTML = "Playing audio. <button style='font-size:inherit' onclick='audio.pause()'>Stop</button>"
             main.onclick = ''
         }
         
