@@ -2,7 +2,7 @@
 layout: page
 title: "Dr. Leana Strouse congratulates her students' entry into the Florida Youth Orchestra"
 description: "Welcome to SoundsOfRussia.com - music instructor in Coral Springs"
-tags: [Violin, Piano, Viola, Cello, Music Lessons, Broward County, Florida]
+tags: [Violin, Piano, Viola, Music Lessons, Broward County, Florida]
 comments: false
 ---
 ## Florida Youth Orchestra
@@ -24,7 +24,7 @@ Dr. Leana Strouse
 
 European-trained teacher
 
-Violin - Viola - Cello - Piano
+Violin - Viola - Piano
 
 _Comments from parents in the year book:_
 

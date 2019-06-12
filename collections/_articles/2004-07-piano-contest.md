@@ -2,7 +2,7 @@
 layout: page
 title: "Parkland's Rosenthal Wins Prestigious Piano Contest"
 description: "Welcome to SoundsOfRussia.com - music instructor in Coral Springs"
-tags: [Violin, Piano, Viola, Cello, Music Lessons, Broward County, Florida]
+tags: [Violin, Piano, Viola, Music Lessons, Broward County, Florida]
 comments: false
 ---
 _By Lois Malachowsky (page 23 July 2004 issue of [The Parklander](https://www.TheParklander.com) magazine, which is now called the [Parkland / Coral Springs Life magazine](https://www.LifePubs.com))_

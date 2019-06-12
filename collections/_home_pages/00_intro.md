@@ -9,8 +9,8 @@ image:
 
 # SoundsOfRussia.com
 
-Dr. Leana Strouse has more than 30 years experience succesfully teaching and nurturing students of all ages in mastering Violin, Piano, Cello and Viola.
+Dr. Leana Strouse has more than 30 years experience succesfully teaching and nurturing students of all ages in mastering Violin, Piano and Viola.
 
 # Contact 
 
-Contact **954-346-2182** info@soundsofrussia.com for Piano Lessons, Violin, Violin Lessons, Coral Springs, Viola, Broward County, Florida, Boca Raton, Miami, Leana Strouse, Music, Plantation.
+Contact **954-346-2182** info@soundsofrussia.com for Piano, Violin and Viola Lessons.

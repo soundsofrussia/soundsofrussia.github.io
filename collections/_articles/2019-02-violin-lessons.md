@@ -2,7 +2,7 @@
 layout: page
 title: "From Russia with love"
 description: "Welcome to SoundsOfRussia.com - music instructor in Coral Springs"
-tags: [Violin, Piano, Viola, Cello, Music Lessons, Broward County, Florida]
+tags: [Violin, Piano, Viola, Music Lessons, Broward County, Florida]
 comments: false
 ---
 

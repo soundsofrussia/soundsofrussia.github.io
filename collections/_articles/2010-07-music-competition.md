@@ -2,7 +2,7 @@
 layout: page
 title: "Practice Makes Perfect at State Music Competition"
 description: "Welcome to SoundsOfRussia.com - music instructor in Coral Springs"
-tags: [Violin, Piano, Viola, Cello, Music Lessons, Broward County, Florida]
+tags: [Violin, Piano, Viola, Music Lessons, Broward County, Florida]
 comments: false
 ---
 _By Nina Benaroch (in page 34 of [July 2010 issue of Parkland / Coral Springs Life magazine](http://www.lifepubs.com/PL_0710.pdf))_
