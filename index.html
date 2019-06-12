@@ -26,7 +26,7 @@ comments: false
             played = true
             audio.play()
             messagediv.innerHTML = "Playing audio. <button style=’font-size:inherit’ onclick=’audio.pause()’>Stop</button>"
-            alldiv.onclick = ''
+            main.onclick = ''
         }
         
         audio.addEventListener('canplaythrough', start, false)
@@ -35,15 +35,15 @@ comments: false
         
         var loop = function()
         {
-            readystatediv.innerHTML = “readyState=”+audio.readyState
+            readystatediv.innerHTML = "readyState="+audio.readyState
             setTimeout(loop, 16)
         }
         loop()
         
-        alldiv.onclick = function()
+        main.onclick = function()
         {
             start()
         }
         
-        alldiv.addEventListener(‘touchstart’, start, false)
+        main.addEventListener('touchstart', start, false)
     </script>
