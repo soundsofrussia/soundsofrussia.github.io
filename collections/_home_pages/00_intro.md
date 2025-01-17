@@ -13,4 +13,4 @@ Dr. Leana Strouse has more than 30 years experience succesfully teaching and nur
 
 # Contact 
 
-Contact **954-346-2182** info@soundsofrussia.com for Piano, Violin and Viola Lessons.
+Contact **954 - 881 - 3529** info@soundsofrussia.com for Piano, Violin and Viola Lessons.
