@@ -9,7 +9,7 @@ image:
 
 # Contact 
 
-Call us at **954-346-2182** or email **info@soundsofrussia.com** for Piano Lessons, Violin and Viola lessons. Our studio is conveniently located in Coral Springs in Broward County, Florida and near Boca Raton, Plantation, and Miami.  
+Call us at **954 - 881 - 3529** or email **info@soundsofrussia.com** for Piano Lessons, Violin and Viola lessons. Our studio is conveniently located in Coral Springs in Broward County, Florida and near Boca Raton, Plantation, and Miami.  
 
 # SoundsOfRussia.com
 
